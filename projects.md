@@ -50,7 +50,7 @@ These are open source projects that Microsoft maintain or contribute to. They ar
 |  | [Secrets Store CSI Driver](http://sigs.k8s.io/secrets-store-csi-driver) | Integrates secrets stores with Kubernetes via a [Container Storage Interface (CSI)](https://kubernetes-csi.github.io/docs/) volume | CNCF: sandbox? | [GitHub issues](https://github.com/kubernetes-sigs/secrets-store-csi-driver/issues) |
 |  | [Azure KeyVault Provider for Secrets Store CSI Driver](https://github.com/Azure/secrets-store-csi-driver-provider-azure) | Enables mounting AKV secrets as volumes in K8s pods | Azure: sandbox | [GitHub issues](https://github.com/Azure/secrets-store-csi-driver-provider-azure/issues) |
 | Cloud Native Service Mesh |  |  |  |  |
-|  | [Service Mesh Interface (SMI)](https://smi-spec.io/) | A standard interface for service meshes on Kubernetes | Azure: sandbox? | [#general](https://smi-spec.slack.com/archives/CJJF5M5NK) |
+|  | [Service Mesh Interface (SMI)](https://smi-spec.io/) | A standard interface for service meshes on Kubernetes | Azure: sandbox? | [#general](https://smi-spec.slack.com/archives/CJJF5M5NK) <br> [GitHub issues](https://github.com/deislabs/smi-spec/issues) |
 |  |  |  |  |  |
 
 To make a correction to this list, please create and issue or a pull request.

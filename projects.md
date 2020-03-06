@@ -8,6 +8,8 @@ This list of projects is maintained by the upstream team. The goals of this list
 * Make informed decisions about what projects to use
 * Learn how to contribute to the projects
 
+## Maturity
+
 Some of the items listed below are full-fledged open source projects, while others are subprojects or contribution areas.
 
 * Each open source project is evaluated against a maturity model. Those currently in Azure, Microsoft, or deislabs GitHub orgs use the maturity model defined in the [guaduation guidelines](process/graduation_guidelines.md). Those in CNCF uses their [maturity model](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc).
@@ -16,6 +18,8 @@ Some of the items listed below are full-fledged open source projects, while othe
 > TODO: Update with Microsoft open source support statement...
 
 > TODO: Should the table include a Microsoft contact, or email alias, for each project?
+
+## Project list
 
 | Project Area | Project | Goal | Maturity | Communication |
 |---|---|---|---|---|

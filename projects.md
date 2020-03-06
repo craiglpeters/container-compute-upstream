@@ -32,12 +32,12 @@ Some of the items listed below are full-fledged open source projects, while othe
 |   | [Azure Disk CSI Driver](https://sigs.k8s.io/azuredisk-csi-driver) | Enable use of Azure disk volume | CNCF: ?? | same slack and email <br> [GitHub issues](https://github.com/kubernetes-sigs/azuredisk-csi-driver/issues)  |
 |   | [Azure File CSI Driver](https://sigs.k8s.io/azurefile-csi-driver) | Enable use of Azure disk volume | CNCF: ?? | same slack and email <br> [GitHub issues](https://sigs.k8s.io/azurefile-csi-driver/issues) |
 |   | [Azure Blobfuse CSI Driver](https://sigs.k8s.io/blobfuse-csi-driver) | Enable use of [azure-storage-fuse](https://github.com/Azure/azure-storage-fuse) | CNCF: ?? | same slack and email <br> [GitHub issues](https://github.com/kubernetes-sigs/blobfuse-csi-driver/issues) |
-| Container Runtimes |  |  |  |  |
-|  | [Moby](https://github.com/moby/moby) | Toolkit for app containerization | Moby: ?? | [#opencontainers](https://opencontainers.slack.com/archives/C0LQVA03W) |
-|  | Containerd |  | Containerd: ?? |  |  |
+| Container Runtime |  |  |  |  |
+|  | [Moby](https://github.com/moby/moby) | Toolkit for app containerization | Moby: ?? | [#opencontainers](https://opencontainers.slack.com/archives/C0LQVA03W) <br> [Moby Forums](https://forums.mobyproject.org/) <br> [GitHub issues](https://github.com/moby/moby/issues) |
+|  | [Containerd](https://github.com/containerd/containerd) | Complete container lifecycle management on Linux and Windows hosts | CNCF: graduated | [#opencontainers](https://opencontainers.slack.com/archives/C0LQVA03W) <br> [dev@opencontainers.org](https://groups.google.com/a/opencontainers.org/forum/#!forum/dev) <br> [GitHub issues](https://github.com/containerd/containerd/issues) |
 | Kubernetes Enhancements |  |  |  |  |
-|  | Virtual Kubelet |  |  |  |
-|  | Windows containers |  |  |  |
+|  | [Virtual Kubelet](https://github.com/virtual-kubelet/virtual-kubelet/) | Enable services to masquerade as kubelet - serverless | CNCF: sandbox | [#virtual-kubelet](https://kubernetes.slack.com/archives/C8YU1QP8W) <br> [GitHub issues](https://github.com/virtual-kubelet/virtual-kubelet/issues) |
+|  | [Windows containers](https://kubernetes.io/docs/setup/production-environment/windows/intro-windows-in-kubernetes/) | Run Windows server containers with Kubernetes | CNCF: graduated <br> K8s API: stable | [#sig-windows](https://kubernetes.slack.com/archives/C0SJ4AFB7) <br> [kubernetes-sig-windows@googlegroups.com](https://groups.google.com/forum/#!forum/kubernetes-sig-windows) <br> [Windows Community Forum](https://discuss.kubernetes.io/c/general-discussions/windows) <br> [GitHub issues](https://github.com/kubernetes/kubernetes/issues?q=is%3Aissue+is%3Aopen+label%3Asig%2Fwindows+) |
 |  | IP v4/v6 Dual Stack |  |  |  |
 | Cloud Native Governance and Security |  |  |  |  |
 |  | AAD Pod Identity |  |  |  |
@@ -47,3 +47,7 @@ Some of the items listed below are full-fledged open source projects, while othe
 | Cloud Native Service Mesh |  |  |  |  |
 |  | Service Mesh Interface (SMI) |  |  |  |
 |  |  |  |  |  |
+
+To make a correction to this list, please create a PR in this repo.
+
+> TODO: How to suggest a new project

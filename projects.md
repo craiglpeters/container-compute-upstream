@@ -15,8 +15,8 @@ The projects are all working towards a maturity model. Those currently in Azure,
 > TODO: Should the table include a Microsoft contact, or email alias, for each project?
 
 | Project Area | Project | Goal | Maturity | Communication |
-|---|---|---|---|---|---|
-| Kubernetes Cluster Management |  |  |  |  |  |
+|---|---|---|---|---|
+| Kubernetes Cluster Management |  |  |  |  |
 |  | [AKS Engine](https://github.com/Azure/aks-engine) | Self-managed clusters on Azure | Azure: incubating | [#aks-engine-users](https://kubernetes.slack.com/archives/CU3N85WJK) <br> [GitHub issues](https://github.com/Azure/aks-engine/issues) |
 |  | [Cluster API Azure Provider](https://sigs.k8s.io/cluster-api-provider-azure) | Self-managed clusters on Azure using Cluster API | CNCF: incubating | [#cluster-api-azure](https://kubernetes.slack.com/archives/CEX9HENG7) <br> [kubernetes-sig-cluster-lifecycle@googlegroups.com](https://groups.google.com/forum/#!forum/kubernetes-sig-cluster-lifecycle) <br> [GitHub issues](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues) |
 | Kubernetes Azure Cloud Provider |  |  |  |  |
@@ -25,18 +25,18 @@ The projects are all working towards a maturity model. Those currently in Azure,
 |   | [Azure Disk CSI Driver](https://sigs.k8s.io/azuredisk-csi-driver) | Enable use of Azure disk volume | CNCF: ?? | same slack and email <br> [GitHub issues](https://github.com/kubernetes-sigs/azuredisk-csi-driver/issues)  |
 |   | [Azure File CSI Driver](https://sigs.k8s.io/azurefile-csi-driver) | Enable use of Azure disk volume | CNCF: ?? | same slack and email <br> [GitHub issues](https://sigs.k8s.io/azurefile-csi-driver/issues) |
 |   | [Azure Blobfuse CSI Driver](https://sigs.k8s.io/blobfuse-csi-driver) | Enable use of [azure-storage-fuse](https://github.com/Azure/azure-storage-fuse) | CNCF: ?? | same slack and email <br> [GitHub issues](https://github.com/kubernetes-sigs/blobfuse-csi-driver/issues) |
-| Container Runtimes |  |  |  |  |  |
+| Container Runtimes |  |  |  |  |
 |  | [Moby](https://github.com/moby/moby) | Toolkit for app containerization | Moby: ?? | [#opencontainers](https://opencontainers.slack.com/archives/C0LQVA03W) |
 |  | Containerd |  | Containerd: ?? |  |  |
-| Kubernetes Enhancements |  |  |  | |
-|  | Virtual Kubelet |  |  |  |  |
-|  | Windows containers |  |  |  |  |
-|  | IP v4/v6 Dual Stack |  |  |  |  |
-| Cloud Native Governance and Security |  |  |  |  |  |
-|  | AAD Pod Identity |  |  |  |  |
-|  | OPA Gatekeeper |  |  |  |  |
-|  | Flexvol Keyvault |  |  |  |  |
-|  | Secrets Store CSI Driver |  |  |  |  |
-| Cloud Native Service Mesh |  |  |  |  |  |
-|  | Service Mesh Interface (SMI) |  |  |  |  |
-|  |  |  |  |  |  |
+| Kubernetes Enhancements |  |  |  |  |
+|  | Virtual Kubelet |  |  |  |
+|  | Windows containers |  |  |  |
+|  | IP v4/v6 Dual Stack |  |  |  |
+| Cloud Native Governance and Security |  |  |  |  |
+|  | AAD Pod Identity |  |  |  |
+|  | OPA Gatekeeper |  |  |  |
+|  | Flexvol Keyvault |  |  |  |
+|  | Secrets Store CSI Driver |  |  |  |
+| Cloud Native Service Mesh |  |  |  |  |
+|  | Service Mesh Interface (SMI) |  |  |  |
+|  |  |  |  |  |

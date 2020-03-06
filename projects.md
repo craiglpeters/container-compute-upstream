@@ -8,7 +8,10 @@ This list of projects is maintained by the upstream team. The goals of this list
 * Make informed decisions about what projects to use
 * Learn how to contribute to the projects
 
-The projects are all working towards a maturity model. Those currently in Azure, Microsoft, or deislabs GitHub orgs use the maturity model defined in the [guaduation guidelines](process/graduation_guidelines.md). Those in CNCF uses their [maturity model](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc). Other projects reference their own maturity model where relevant.
+Some of the items listed below are full-fledged open source projects, while others are subprojects or contribution areas.
+
+* Each open source project is evaluated against a maturity model. Those currently in Azure, Microsoft, or deislabs GitHub orgs use the maturity model defined in the [guaduation guidelines](process/graduation_guidelines.md). Those in CNCF uses their [maturity model](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc).
+* Each subproject or contibution Maturity references the stability of the API it provides.
 
 > TODO: Update with Microsoft open source support statement...
 

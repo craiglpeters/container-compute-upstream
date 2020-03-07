@@ -17,7 +17,7 @@ Some of the items listed below are full-fledged open source projects, while othe
 
 ## Support
 
-These are open source projects that Microsoft maintain or contribute to. They are [**not** covered by the Microsoft Azure support policy](https://support.microsoft.com/en-us/help/2941892/support-for-linux-and-open-source-technology-in-azure). In general, please search open issues, and if your issue isn't already represented please open a new one. The project maintainers will respond to the best of their abilities.
+These are open source projects that Microsoft maintain or contribute to. They are [**not** covered by the Microsoft Azure support policy](https://support.microsoft.com/en-us/help/2941892/support-for-linux-and-open-source-technology-in-azure). In general, please search open issues, and if your issue isn't already represented please open a new one. The project maintainers will respond to the best of their abilities. If you consume one of these projects as a part of a product or service, you may be eligible for [support under that product](https://support.microsoft.com/en-us/hub/4343728/support-for-business).
 
 > TODO: Should the table include a Microsoft contact, or email alias, for each project?
 

@@ -2,7 +2,7 @@
 
 > Note: This content may be moved to the README.md when ready.
 
-This list of projects is maintained by the Azure container compute upstream team (TODO: how to contact the team). This list is inteded to help you make informed decisions about what projects to use (or not use) in the context of your goals (e.g. proof of concept vs. production). To make this decision you need to consider your goals, your need for formal support, the project's [maturity](#Maturity) and version level, and your willingness to work in open source.
+This list of projects is maintained by the Azure container compute upstream team (TODO: how to contact the team). This list is inteded to help you make informed decisions about what projects to use (or not use) in the context of your goals (e.g. proof of concept vs. production). To make this decision you need to consider your goals, your need for formal support, the project's [maturity](#Maturity), governance, version level, and your willingness to work in open source.
 
 ## Support
 
@@ -10,7 +10,7 @@ Projects listed on this page are open source that Microsoft maintain or contribu
 
 ## Project list
 
-| Project Area | Project & (artifacts) | Goal | Tests, Maturity & <br> API Version | Communication | Use on Azure |
+| Project Area | Project & (artifacts) | Goal | Project State & <br> API Version | Communication | Use on Azure |
 |---|---|---|---|---|---|
 | Kubernetes Cluster Management |  |  |  |  |
 |  | [AKS Engine](https://github.com/Azure/aks-engine) <br> ([releases](https://github.com/Azure/aks-engine/releases)) | Self-managed clusters on Azure | Azure: incubating <br> API: N/A | [#aks-engine-users](https://kubernetes.slack.com/archives/CU3N85WJK) <br> [GitHub issues](https://github.com/Azure/aks-engine/issues) | [Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/) <br> [Azure Stack Hub](https://docs.microsoft.com/en-us/azure-stack/user/azure-stack-kubernetes-aks-engine-overview) |
